@@ -2,5 +2,6 @@ File:    HRDataset_v14.csv
 Source:  Dr. Richard A. Huebner, and Dr. Carla Patalano. (2020). Human Resources Data Set [Data set]. Kaggle. 
          https://doi.org/10.34740/KAGGLE/DSV/1572001
 
-
+File:    WA_Fn-UseC_-HR-Employee-Attrition.csv
+Source:  https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
